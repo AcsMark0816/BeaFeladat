@@ -1,0 +1,21 @@
+name;color;weight;age;type;adopted
+Rexy;green;1200,5;12;Tyrannosaurus rex;true
+Spike;brown;980,2;10;Triceratops;false
+Blaze;red;1100,0;8;Velociraptor;true
+Leafy;green;750,3;6;Brachiosaurus;false
+Shadow;black;1300,7;15;Allosaurus;true
+Sunny;yellow;680,4;5;Stegosaurus;false
+Rocky;gray;1500,9;20;Ankylosaurus;true
+Flash;blue;900,1;9;Dilophosaurus;false
+Terra;brown;820,6;7;Iguanodon;true
+Fang;black;1400,2;14;Spinosaurus;false
+Misty;white;700,0;6;Parasaurolophus;true
+Storm;gray;1250,8;13;Carnotaurus;false
+Petal;pink;600,5;4;Hypsilophodon;true
+Ember;orange;1050,3;11;Giganotosaurus;false
+Clover;green;720,7;5;Apatosaurus;true
+Onyx;black;1350,6;16;Majungasaurus;false
+Daisy;yellow;650,2;4;Protoceratops;true
+Titan;gray;1600,0;22;Argentinosaurus;false
+Viper;green;1150,9;12;Deinonychus;true
+Breeze;blue;780,3;7;Plateosaurus;false
